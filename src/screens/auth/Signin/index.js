@@ -10,7 +10,7 @@ import {styles} from './styles';
 
 const Signin = () => {
   const onSignUp = () => {
-    console.log('Sign Up');
+    console.log('Sign In');
   };
 
   return (
