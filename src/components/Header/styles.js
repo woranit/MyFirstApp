@@ -7,6 +7,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     marginTop: 20,
+    marginLeft: 10,
   },
   title: {
     color: colors.black,
