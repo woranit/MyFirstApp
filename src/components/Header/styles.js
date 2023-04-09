@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     marginTop: 20,
-    marginLeft: 10,
+    paddingHorizontal: 24,
   },
   title: {
     color: colors.black,
@@ -20,5 +20,5 @@ export const styles = StyleSheet.create({
   },
   space: {
     width: 24,
-  }
+  },
 });

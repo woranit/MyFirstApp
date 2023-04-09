@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
   },
   title: {
     color: colors.grey,
+    marginBottom: 12,
   },
   image: {
     width: 32,
@@ -19,6 +20,7 @@ export const styles = StyleSheet.create({
     backgroundColor: colors.lightgrey,
     padding: 16,
     borderRadius: 8,
-    marginBottom: 8,
+    marginTop: 13,
+    marginBottom: 3,
   }
 });
